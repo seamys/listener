@@ -1,4 +1,7 @@
-﻿
+/*! Listener - v0.1.0 - 2016-02-01
+* https://github.com/seamys/listener
+* Copyright (c) 2016 seamys; Licensed MIT */
+
 (function ($, undefined) {
     //客户端监听对象
     var defaults = {
